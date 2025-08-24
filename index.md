@@ -5,8 +5,8 @@ layout: default
 
 # Welcome
 
-My name is James Corley and I welcome you to explore my site.
-Here you'll find projects, new ideas, what I know, and what I'm discovering.
+My name is James Corley. Here you'll find projects, new ideas, what I know, and
+what I'm discovering.
 
 # Log
 
