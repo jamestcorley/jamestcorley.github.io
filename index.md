@@ -14,9 +14,8 @@ what I'm discovering.
 
 *August 24, 2025*
 
-After some more studying, I've passed the Security+ exam, right on the heels of Network+.
-It feels I'm inching closer and closer to something. I know I'm more knowledgable
-coming out the other side.
+Right on the heels of Network+, I've passed the Security+ exam. It feels I'm inching closer 
+and closer to something. I know I'm more knowledgable coming out the other side.
 
 
 ## CompTIA Network+ Certified
