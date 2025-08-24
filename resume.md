@@ -1,3 +1,7 @@
+---
+title: Resume
+---
+
 # James Corley
 Location: Dallas, Texas, United States
 Email: james.t.corley@pm.me
