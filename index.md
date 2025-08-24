@@ -1,10 +1,13 @@
 ---
+title: Home
 layout: default
 ---
 
 # Welcome
 
-Welcome to my page. You'll find projects, new ideas, what I know, and what I'm discovering. I build, explore, and improve, one step at a time.
+Welcome to my page.
+
+You'll find projects, new ideas, what I know, and what I'm discovering. Building, exploring, and improving, one step at a time.
 
 
 ## 🧑‍💻 Projects
