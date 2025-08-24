@@ -5,9 +5,7 @@ layout: default
 
 # Welcome
 
-Welcome to my page.
-
-You'll find projects, new ideas, what I know, and what I'm discovering. Building, exploring, and improving, one step at a time.
+My name is James Corley. Here you'll find projects, new ideas, what I know, and what I'm discovering. Building, exploring, and improving, one step at a time.
 
 
 ## 🧑‍💻 Projects
