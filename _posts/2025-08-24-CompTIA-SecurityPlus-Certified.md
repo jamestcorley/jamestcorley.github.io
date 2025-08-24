@@ -11,5 +11,7 @@ tags:
 ---
 
 Right after Network+, I've passed the Security+ exam. It feels I'm inching closer 
-and closer to something. Now that I'm on the other side, I know I'm more knowledgable
-and I'm ready to learn whatever's next.
+and closer to something. Now that I'm on the other side, I'm more knowledgable
+and ready to learn what's next
+
+It's a journey. ⛵
