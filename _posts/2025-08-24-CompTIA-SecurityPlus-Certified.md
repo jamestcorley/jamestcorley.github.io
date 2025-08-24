@@ -11,4 +11,4 @@ tags:
 ---
 
 Right after Network+, I've passed the Security+ exam. It feels I'm inching closer 
-and closer to something. I know I'm more knowledgable coming out on the other side.
+and closer to something. Now that I'm on the other side, I know I'm more knowledgable.
