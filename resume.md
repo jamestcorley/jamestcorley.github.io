@@ -6,7 +6,7 @@ layout: default
 # James Corley
 - Location: Dallas, Texas, United States
 - Email: <root@jamescorley.me>
-- LinkedIn: <www.linkedin.com/in/james-corley>
+- LinkedIn: [www.linkedin.com/in/james-corley](www.linkedin.com/in/james-corley)
 
 
 ## Summary
