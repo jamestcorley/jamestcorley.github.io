@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Example Post"
+title: "CompTIA Security+ Certified"
 date: 2025-08-24
 author: James Corley
 categories:
