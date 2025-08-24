@@ -3,9 +3,9 @@ title: Resume
 ---
 
 # James Corley
-Location: Dallas, Texas, United States
-Email: james.t.corley@pm.me
-LinkedIn: www.linkedin.com/in/james-corley
+- Location: Dallas, Texas, United States
+- Email: james.t.corley@pm.me
+- LinkedIn: www.linkedin.com/in/james-corley
 
 ## Summary
 Experienced IT professional with five years of diverse experience across IT support, project management, technical writing, and scripting in over four languages, including Python, PowerShell, JavaScript, and VBA.
