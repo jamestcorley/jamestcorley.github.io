@@ -67,6 +67,14 @@ IT Support Specialist | Mainframe Access Management, App Installations, Active D
 
 
 ### National Electric, LLC
+
 Electrical Apprentice | Residential, Industrial, and Commercial Installation and Repair
 2019 - 2020
 
+
+## Education
+
+### Tarrant County College
+
+Associate of Arts - AA, General Studies
+2012 - 2015
