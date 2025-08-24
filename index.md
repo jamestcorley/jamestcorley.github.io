@@ -16,4 +16,4 @@ I've split my site into pages.
 - [Resume](resume.md): My professional experience and skills.
 - [Contact](contact.md): Get in touch.
 
-Buildig, exploring, and improving, one step at a time.
+Building, exploring, and improving, one step at a time.
