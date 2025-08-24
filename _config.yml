@@ -1,4 +1,3 @@
 title: James Corley
 theme: minima
-minima:
-  show_excerpts: true
+show_excerpts: true
