@@ -4,20 +4,20 @@ layout: default
 
 # Welcome
 
-Here's my projects, new ideas, what I know, and what I'm discovering. I build, explore, and improve, one step at a time.
+Welcome to my page. You'll find projects, new ideas, what I know, and what I'm discovering. I build, explore, and improve, one step at a time.
 
 
-# 🧑‍💻 Projects
+## 🧑‍💻 Projects
 
 [Reflow](https://github.com/jamestcorley/reflow) - A simple script to copy command output to the clipboard on macOS and Linux.
 
 
-# 📧 Contact Me
+## 📧 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/james-corley/)
 
 
-# 📃 Certifications
+## 📃 Certifications
 
 [CompTIA Security+](https://www.credly.com/badges/47d534fd-e89e-4dba-891d-da92322f2db3/public_url)
 [CompTIA Network+](https://www.credly.com/badges/0ca62ad1-8db8-46d6-a911-7e6dab1bce3c/public_url)
