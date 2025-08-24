@@ -1,5 +1,4 @@
 ---
-title: James Corley
 layout: default
 ---
 
