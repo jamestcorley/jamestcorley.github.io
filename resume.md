@@ -3,21 +3,21 @@ title: Resume
 layout: default
 ---
 
-# James Corley
+## James Corley
 
 
-## Contact
+### Contact
 - Location: Dallas, Texas, United States
 - Email: <root@jamescorley.me>
 - LinkedIn: [www.linkedin.com/in/james-corley](www.linkedin.com/in/james-corley)
 
 
-## Summary
+### Summary
 Experienced IT professional with five years of diverse experience across IT support, project management, technical writing, and scripting in over four languages, including Python, PowerShell, JavaScript, and VBA.
 Demonstrated consistent success with high marks across healthcare, telecommunication, and security industries by applying knowledge, patience, and positivity to challenging situations, and simplifying complex ideas and tasks into clear, actionable strategies.
 
 
-## Skillset
+### Skillset
 -	Workflow Automation
 -	Python, PowerShell, JavaScript, VBA
 -	Network Setup, Documentation, Maintenance
@@ -28,7 +28,7 @@ Demonstrated consistent success with high marks across healthcare, telecommunica
 -	Technical Illustration (vector and raster)
 
 
-## Certifications
+### Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/47d534fd-e89e-4dba-891d-da92322f2db3/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/0ca62ad1-8db8-46d6-a911-7e6dab1bce3c/public_url)
@@ -36,9 +36,9 @@ Demonstrated consistent success with high marks across healthcare, telecommunica
 - [Google IT Automation with Python Specialization](https://www.credly.com/badges/eba78de3-07b4-4c1d-8fc6-8d60fd306c13/public_url)
 
 
-## Experience
+### Experience
 
-### Quest Diagnostics (TEKsystems, HCLTech)
+#### Quest Diagnostics (TEKsystems, HCLTech)
 
 IT Support Specialist | Systems Support, Auditing, and Documentation
 2022 - 2025
@@ -50,7 +50,7 @@ IT Support Specialist | Systems Support, Auditing, and Documentation
 - Delivery of exceptional remote IT support, resolving over 20,000 issues in the ServiceNow ticketing system for clients and employees, ensuring high levels of satisfaction and minimal downtime. 
 
 
-### T-Mobile (TEKsystems)
+#### T-Mobile (TEKsystems)
 
 Project Manager | Business Solutions, Tracking, Analyzing, and Automation
 2021 - 2022
@@ -60,7 +60,7 @@ Project Manager | Business Solutions, Tracking, Analyzing, and Automation
 - Taught 30+ team members essential technical knowledge through group meetings and one-on-one sessions, enhancing overall team capability.
 
 
-### Exelon (TEKsystems)
+#### Exelon (TEKsystems)
 
 IT Support Specialist | Mainframe Access Management, App Installations, Active Directory
 2020 - 2021
@@ -69,15 +69,15 @@ IT Support Specialist | Mainframe Access Management, App Installations, Active D
 - Administered Active Directory, authenticating and granting access to users across the company, ensuring secure and reliable operations.
 
 
-### National Electric, LLC
+#### National Electric, LLC
 
 Electrical Apprentice | Residential, Industrial, and Commercial Installation and Repair
 2019 - 2020
 
 
-## Education
+### Education
 
-### Tarrant County College
+#### Tarrant County College
 
 Associate of Arts - AA, General Studies
 2012 - 2015
