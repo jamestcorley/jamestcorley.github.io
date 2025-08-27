@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CompTIA Network+ Certified"
-date: 2025-07-20
+date: 2025-08-01
 author: James Corley
 categories:
   - Certification
