@@ -23,5 +23,5 @@ was weak in. I then took more practice tests. Before I knew it, it was time and 
 
 The fog has been lifted and I can see my career stretching out in front of me. I'm planning on pursuing Security+. It's
 one of the most valuable foundational certifications in IT. When it comes to career advancement, it seems even more
-valuable than Network+. I look forward to the future and who knows where the journey will take me but I feel it's going to be
-a ride.
+valuable than Network+. I look forward to the future and I don't know where the journey will take me but I feel
+it's going to be a ride.
