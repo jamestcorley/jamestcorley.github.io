@@ -12,7 +12,7 @@ tags:
 
 I’m Network+ certified and it feels like the fog has lifted. I've come to appreciate and
 understand certificates help freshen up what I know and offer tangible proof of my skills. When I
-first got my foot in the door, I assumed I only needed the A+ for intial step and that I could move
+first got my foot in the door, I assumed I only needed the A+ for the intial step and that I could move
 up based on experience alone the rest of the way. I didn't realize how valuable being certified is
 until I started talking to people and doing research.
 
