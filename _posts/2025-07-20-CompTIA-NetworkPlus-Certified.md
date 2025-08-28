@@ -1,4 +1,4 @@
----
+0---
 layout: post
 title: "CompTIA Network+ Certified"
 date: 2025-08-01
