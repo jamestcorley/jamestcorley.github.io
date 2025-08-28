@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CompTIA Network+ Certified"
+title: "Moving Forward in IT: My Network+ Experience"
 date: 2025-08-02
 author: James Corley
 categories:
