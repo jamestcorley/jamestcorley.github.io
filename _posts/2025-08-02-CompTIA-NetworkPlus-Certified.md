@@ -24,4 +24,4 @@ and passed.
 
 I can see my career stretching out in front of me and I'm planning on pursuing Security+ next. It's one of the most valuable
 foundational certifications in IT. When it comes to career advancement, it seems even more valuable than Network+. I look forward
-to the future. I don't know where all the journey will take me but I feel it's going to be a ride.
+to the future. I don't know where all the journey will take me but I know it's going to be an interesting ride.
