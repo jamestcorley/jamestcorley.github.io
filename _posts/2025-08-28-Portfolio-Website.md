@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portfolio Website Created"
+title: "Launching My Personal Portfolio"
 date: 2025-08-28
 author: James Corley
 categories:
