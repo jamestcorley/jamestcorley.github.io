@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CompTIA Security+ Certified"
+title: "Securing My Future: Passing Security+"
 date: 2025-08-24
 author: James Corley
 categories:
