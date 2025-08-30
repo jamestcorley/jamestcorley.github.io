@@ -21,7 +21,7 @@ teachers was to help ensure there were less gaps in my knowledge. After studying
 my head, I scheduled the exam. I had read online from multiple people that studying too long can actually be detrimental
 and cause burnout which was one reason why I didn't want to delay too much. For myself, 30-60 days seems like a good range
 to stay within.
-<!-- end excerpt -->
+<!-- more -->
 
 As the date started approaching, I took practice tests to help identify weak spots and then looked over the study material
 I was not as strong in. I then took more practice tests in the following days. I really liked Andrew Dion's tests in
