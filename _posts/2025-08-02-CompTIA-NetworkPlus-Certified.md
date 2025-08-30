@@ -9,7 +9,7 @@ tags:
   - Certification
   - CompTIA
 ---
-![Project logo](assets/images/CompTIA_Network_Plus@0.5x.jpg)
+![CompTIA Network+ On the Web](../assets/images/CompTIA_Network_Plus@0.5x.jpg)
 
 I’m Network+ certified and it feels like I can see a path ahead. I've come to appreciate and understand certificates help
 freshen up what I know and offer tangible proof of my skills. When I first got my foot in the door, I assumed I only needed
