@@ -9,9 +9,10 @@ tags:
   - Certification
   - CompTIA
 ---
+![CompTIA Network+ On the Web](../assets/images/CompTIA_Security_Plus.jpg)
 
 Right after Network+, I've passed the Security+ exam. It feels I'm inching closer 
-and closer to something. Now that I'm on the other side, I'm more knowledgable
+and closer to something. Now that I'm on the other side, I'm more knowledgeable
 and ready to learn what's next.
 
 When I started studying for the exam, I realized the difference immediately in the type of
@@ -19,7 +20,7 @@ knowledge. This felt more general, less technical. It was like pulling back and 
 at the forest around you instead of being caught up in the trees.
 
 From my past Network+ exam experience, I decided again I would limit the amount of time I
-would study. Undertsand the knowledge but down't dwell or fall down rabbit holes. I can dig
+would study. Understand the knowledge but don't dwell or fall down rabbit holes. I can dig
 deeper after I'm certified.
 
 I am starting to realize for me the best process is to watch a whole lecture series from start
